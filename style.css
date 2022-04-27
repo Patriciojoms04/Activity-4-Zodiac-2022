@@ -1,0 +1,186 @@
+body{
+    margin: 200;
+    padding: 200;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://c4.wallpaperflare.com/wallpaper/979/646/504/desert-moon-stars-night-wallpaper-preview.jpg');
+    background-size: cover;
+  }
+    
+   * {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    body {
+        font-family: arial;
+    }
+
+    .main {
+
+        margin: 2%;
+    }
+
+    .card {
+        width: 15%;
+        display: inline-block;
+        box-shadow: 2px 2px 20px black;
+        border-radius: 2px;
+        margin: 2%;
+    }
+
+    .image img {
+        width: 100%;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+
+    .title {
+
+        text-align: center;
+        padding: 10px;
+        color: #fff;
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .des {
+        padding: 3px;
+        text-align: center;
+
+        padding-top: 10px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+        color: #fff;
+    }
+    .btn-1 {
+        text-decoration: none;
+        color:white;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        font-size: medium;   
+
+    }
+    .back-btn{
+        margin-top: 80px; 
+        margin-left: 50px;
+    }
+
+    
+    .btn-1:hover {
+        text-decoration: none;
+        color:black;
+        background-color:gray(53, 43, 5);
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    }
+    .para {
+        color: red;
+        font-size: 30px;
+    }
+    .return-btn{
+        margin-bottom: 50px;
+    
+    }
+    
+    .view-btn{
+    
+        margin-top: 40px;
+    }
+    
+    .btn-Villacarlos{
+        text-decoration: none;
+        color:#fff;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        margin-right: 90px;
+        margin-left: 55px;
+    font-style: normal;
+    font-size: medium;
+    }
+    .btn-Villacarlos:hover {
+        text-decoration: none;
+        color:black;
+        background-color: #3498db;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    }
+    .btn-Limosnero{
+        text-decoration: none;
+        color: #fff;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        margin-right: 100px;
+    
+    }
+    .btn-Limosnero:hover {
+        text-decoration: none;
+        color:black;
+        background-color: #3498db;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    }
+    .btn-Patricio{
+        text-decoration: none;
+        color: #fff;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        margin-right: 100px;
+       
+    }
+    .btn-Patricio:hover {
+        text-decoration: none;
+        color:black;
+        background-color: #3498db;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    }
+    .btn-Tapel{
+        text-decoration: none;
+        color: #fff;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        margin-right: 105px;
+    }
+    .btn-Tapel:hover {
+        text-decoration: none;
+        color:black;
+        background-color: #3498db;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    }
+    .btn-Carurucan{
+        text-decoration: none;
+        color: #fff;
+        background-color:dimgrey;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+    
+    }
+    
+    .btn-Carurucan:hover {
+        text-decoration: none;
+        color:black;
+        background-color: #3498db;
+        padding: 20px 50px 20px 50px;
+        border-radius: 100px;
+        border: 2px solid #000;
+        
+    }
+    

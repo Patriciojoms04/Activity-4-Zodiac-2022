@@ -1,0 +1,59 @@
+body{
+  margin: 200;
+  padding: 200;
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://c4.wallpaperflare.com/wallpaper/14/724/858/kagaya-scorpio-scorpions-yutaka-wallpaper-preview.jpg');
+  background-size: cover;
+}
+.box{
+  width: 400px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Century Gothic',sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.hello {
+  color:aqua;
+  font-size: 50px;
+  text-align: center;
+
+}
+
+.img-1 {
+  margin-bottom: 50px;
+}
+
+.btn-1 {
+  text-decoration: none;
+  color:white;
+  background-color:dimgrey;
+  padding: 20px 50px 20px 50px;
+  border-radius: 100px;
+  border: 2px solid #000;
+  font-size: medium; 
+}
+
+.btn-1:hover {
+  text-decoration: none;
+  color:black;
+  background-color:gray(53, 43, 5);
+  padding: 20px 50px 20px 50px;
+  border-radius: 100px;
+  border: 2px solid #000;
+}
+
+.return-btn{
+  margin-bottom: 50px;
+
+}
+
+.view-btn{
+  margin-top: 40px;
+}
